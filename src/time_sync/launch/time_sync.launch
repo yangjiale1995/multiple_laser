@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="time_sync" name="time_sync" type="time_sync_node" output="screen"/>
+</launch>
